@@ -1,0 +1,18 @@
+{
+  "name": "nodejsgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-git-branch": "^1.0.1",
+    "express": "^4.15.4",
+    "mssql": "^4.0.4",
+    "npm-git-install": "^0.3.0",
+    "tedious": "^2.0.0"
+  }
+}
